@@ -1,8 +1,10 @@
 {
+  "id": "com.mercadofinancas.app",
   "name": "Mercado & Finanças",
   "short_name": "Finanças",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0b1712",
   "theme_color": "#14251b",
   "icons": [
