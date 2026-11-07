@@ -1,5 +1,5 @@
 {
-  "name": "Mercado & Finanças",
+  "name": "Mercado &amp; Finanças",
   "short_name": "Mercado+",
   "description": "Compras de supermercado e controle financeiro pessoal, com armazenamento local sem senha.",
   "start_url": "./",
@@ -8,6 +8,11 @@
   "background_color": "#0b1712",
   "theme_color": "#0b1712",
   "icons": [
-    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
   ]
 }
