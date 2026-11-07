@@ -3,7 +3,7 @@
   "name": "Mercado & Finanças",
   "short_name": "Mercado+",
   "description": "Compras de supermercado e controle financeiro pessoal, com armazenamento local sem senha.",
-  "start_url": "app/index.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
